@@ -1,0 +1,5 @@
+streamlit
+statistics
+scipy.stats
+numpy
+LinearRegression
