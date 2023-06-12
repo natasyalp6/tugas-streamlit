@@ -1,5 +1,5 @@
 streamlit
 statistics
-scipy.stats
+scipy
 numpy
 LinearRegression
